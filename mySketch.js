@@ -30,6 +30,6 @@ function setup() {
 }
 
 function draw() {
-  scale(0.2)
+  scale(0.3)
   // hogs.forEach(hog => hog.trembleWithExcitement())
 }
